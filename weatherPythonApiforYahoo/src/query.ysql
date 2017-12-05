@@ -1,0 +1,9 @@
+select woeid from geo.places where text="san francisco, ca"
+
+select * from weather.forecast where woeid=2502265
+
+WOEID
+455822|Curitiba
+23424768|Campo Grande
+
+

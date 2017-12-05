@@ -1,0 +1,149 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2017-07-30T01:47:37Z",
+  "lang": "pt-BR",
+  "results": {
+   "channel": {
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "title": "Yahoo! Weather - Curitiba, PR, BR",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-455822/",
+    "description": "Yahoo! Weather for Curitiba, PR, BR",
+    "language": "en-us",
+    "lastBuildDate": "Sat, 29 Jul 2017 10:47 PM BRT",
+    "ttl": "60",
+    "location": {
+     "city": "Curitiba",
+     "country": "Brazil",
+     "region": " PR"
+    },
+    "wind": {
+     "chill": "54",
+     "direction": "68",
+     "speed": "11"
+    },
+    "atmosphere": {
+     "humidity": "96",
+     "pressure": "922.0",
+     "rising": "0",
+     "visibility": "8.4"
+    },
+    "astronomy": {
+     "sunrise": "6:57 am",
+     "sunset": "5:51 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Curitiba, PR, BR at 10:00 PM BRT",
+     "lat": "-25.45682",
+     "long": "-49.284859",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-455822/",
+     "pubDate": "Sat, 29 Jul 2017 10:00 PM BRT",
+     "condition": {
+      "code": "27",
+      "date": "Sat, 29 Jul 2017 10:00 PM BRT",
+      "temp": "55",
+      "text": "Mostly Cloudy"
+     },
+     "forecast": [
+      {
+       "code": "30",
+       "date": "29 Jul 2017",
+       "day": "Sat",
+       "high": "71",
+       "low": "50",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "30 Jul 2017",
+       "day": "Sun",
+       "high": "72",
+       "low": "51",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "31 Jul 2017",
+       "day": "Mon",
+       "high": "71",
+       "low": "52",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "01 Aug 2017",
+       "day": "Tue",
+       "high": "71",
+       "low": "51",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "02 Aug 2017",
+       "day": "Wed",
+       "high": "73",
+       "low": "49",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "39",
+       "date": "03 Aug 2017",
+       "day": "Thu",
+       "high": "66",
+       "low": "54",
+       "text": "Scattered Showers"
+      },
+      {
+       "code": "34",
+       "date": "04 Aug 2017",
+       "day": "Fri",
+       "high": "64",
+       "low": "49",
+       "text": "Mostly Sunny"
+      },
+      {
+       "code": "30",
+       "date": "05 Aug 2017",
+       "day": "Sat",
+       "high": "60",
+       "low": "48",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "28",
+       "date": "06 Aug 2017",
+       "day": "Sun",
+       "high": "65",
+       "low": "49",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "28",
+       "date": "07 Aug 2017",
+       "day": "Mon",
+       "high": "69",
+       "low": "53",
+       "text": "Mostly Cloudy"
+      }
+     ],
+     "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/27.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Mostly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Partly Cloudy. High: 71Low: 50\n<BR /> Sun - Partly Cloudy. High: 72Low: 51\n<BR /> Mon - Partly Cloudy. High: 71Low: 52\n<BR /> Tue - Partly Cloudy. High: 71Low: 51\n<BR /> Wed - Partly Cloudy. High: 73Low: 49\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-455822/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+     "guid": {
+      "isPermaLink": "false"
+     }
+    }
+   }
+  }
+ }
+}

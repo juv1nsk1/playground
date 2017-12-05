@@ -1,0 +1,5 @@
+f = open("cities.dat")
+lines = f.readlines()
+for line in lines:
+	
+f.close()
