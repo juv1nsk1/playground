@@ -1,3 +1,4 @@
+#Juvinski 2017-08
 from pprint import pprint
 import urllib2, urllib, json, ast, datetime
 
